@@ -31,10 +31,13 @@ spigot-1.12.2向けのPluginです。
 もし、それ以外のバージョンに対応させてほしいなどあれば、以下の条件を満たした人はご連絡ください。
 
 - Discordが使える。
+
 ⇨ https://discordapp.com/
 - MonsterLifeServerに参加している。
+
 ⇨ 参加方法 : https://discord.gg/gaGB6Mm
 - YouTubeチャンネル登録済み
+
 ⇨ MonsterLifeServer公式チャンネル : https://www.youtube.com/channel/UC_qBcdSquUkmuhhvEazpYMg
 
 ⇨ ゆっくり夫婦チャンネル : https://www.youtube.com/channel/UCWSz32UUYgAzs_hVqKeqq-Q
