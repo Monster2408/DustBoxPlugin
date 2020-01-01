@@ -33,6 +33,8 @@ GUIText:
 
 # ValueList:
 ## %PLAYER% -> Player
+## %COMMAND% -> コマンド名
+## %DESCRIPTION% -> コマンド説明
 # ColorCode:
 ## &0 -> Black
 ## &1 -> Dark Blue
