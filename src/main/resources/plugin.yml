@@ -1,0 +1,11 @@
+name: DustBox
+version: ${project.version}
+main: jp.dip.monsterlifeserver.dustbox.dustbox.DustBox
+prefix: DustBox
+authors: [Monster2408]
+description: ゴミ箱を追加するPluginです。
+website: http://monster2408.html.xdomain.jp/monsterlifeserver/
+
+commands:
+  DustBox:
+    description: DustBoxPlugin Main Commands

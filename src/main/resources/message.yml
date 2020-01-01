@@ -1,0 +1,54 @@
+Prefix: "[&cDustBox&r] "
+
+Message:
+  # プラグイン起動時のログメッセージ
+  enablePlugin: "プラグインが起動しました。"
+
+  # プラグイン停止時のログメッセージ
+  disablePlugin: "プラグインが停止しました。"
+
+  # ゴミ箱作成時、作成者に送るメッセージ
+  reloadPlugin: "&aプラグインを再読み込みしました。"
+
+  # ゴミ箱作成時、作成者に送るメッセージ
+  reloadConfig: "&aコンフィグを再読み込みしました。"
+
+  # ゴミ箱作成時、作成者に送るメッセージ
+  reloadMessage: "&aメッセージコンフィグを再読み込みしました。"
+
+  # ヘルプコマンドのタイトル部分
+  helpCommandFormat1: "&6========== &cDustBox &6=========="
+
+  # ヘルプコマンドのコマンド部分
+  helpCommandFormat2: "&a%COMMAND% &7- &6%DESCRIPTION%"
+
+  noCommand: "&cそのようなコマンドはございません。&a/DustBox help &cでご確認ください。"
+
+GUIText:
+  # ゴミ箱インベントリの名前
+  DustBoxName: "&8ゴミ箱"
+
+  # ゴミ箱インベントリの名前横に入る注意書き
+  DustBoxNote: "&c※捨てた物は戻ってきません。"
+
+# ValueList:
+## %PLAYER% -> Player
+# ColorCode:
+## &0 -> Black
+## &1 -> Dark Blue
+## &2 -> Dark Green
+## &3 -> Dark Aqua
+## &4 -> Dark Red
+## &5 -> Dark Purple
+## &6 -> Gold
+## &7 -> Gray
+## &8 -> Dark Gray
+## &9 -> Blue
+## &a -> Green
+## &b -> Aqua
+## &c -> Red
+## &d -> Light Purple
+## &e -> Yellow
+## &f -> White
+# ColorCodeListSite:
+## https://minecraft.gamepedia.com/Formatting_codes

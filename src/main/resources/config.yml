@@ -1,0 +1,18 @@
+WoodDustBox:
+  # true で有効 | false で無効
+  enabled: true
+  # インベントリのサイズ 1 ~ 6 (行)
+  Size: 3
+IronDustBox:
+  # true で有効 | false で無効
+  enabled: true
+  # インベントリのサイズ 1 ~ 6 (行)
+  Size: 6
+#
+DustBoxNotice: true
+#
+DustBoxOPNotice: true
+# World名を書くだけ
+DustBoxBanWorld:
+  - exampleWorld1
+  - exampleWorld2

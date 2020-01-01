@@ -1,0 +1,6 @@
+jp\dip\monsterlifeserver\dustbox\dustbox\utils\DustBoxLoader.class
+jp\dip\monsterlifeserver\dustbox\dustbox\Command.class
+jp\dip\monsterlifeserver\dustbox\dustbox\utils\CustomConfig.class
+jp\dip\monsterlifeserver\dustbox\dustbox\utils\DustBoxAPIs.class
+jp\dip\monsterlifeserver\dustbox\dustbox\listener\onOpenDustBox.class
+jp\dip\monsterlifeserver\dustbox\dustbox\DustBox.class
