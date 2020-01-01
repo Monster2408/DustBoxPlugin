@@ -3,6 +3,9 @@
 ## 概要
 このPluginはMonsterLifeServerにあるDustBox機能だけを取り出したものです。
 
+## ダウンロード
+⇨ https://github.com/Monster2408/DustBoxPlugin/raw/master/target/DustBox-1.0.0.jar
+
 ## 使い方？
 Pluginをサーバーのプラグインフォルダにぶち込むだけ。
 
