@@ -8,10 +8,6 @@ IronDustBox:
   enabled: true
   # インベントリのサイズ 1 ~ 6 (行)
   Size: 6
-#
-DustBoxNotice: true
-#
-DustBoxOPNotice: true
 # World名を書くだけ
 DustBoxBanWorld:
   - exampleWorld1
