@@ -30,7 +30,7 @@ spigot-1.12.2向けのPluginです。
 
 もし、それ以外のバージョンに対応させてほしいなどあれば、以下の条件を満たした人はご連絡ください。
 
-・Discordが使える。
+- Discordが使える。
 
 ⇨ https://discordapp.com/
 
